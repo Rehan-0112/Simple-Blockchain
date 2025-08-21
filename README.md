@@ -19,9 +19,3 @@ It demonstrates the basic concepts of how a blockchain works, including blocks, 
 - Built-in libraries only (`hashlib`, `json`, `time`)
 
 ---
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/simple-blockchain.git
-   cd simple-blockchain
